@@ -5,7 +5,7 @@ const Counter = () => {
 
   return (
     <div className="p-6">
-      <p className="text-2xl font-bold text-[#DFD0B8]">Counter App</p>
+      <p className="text-2xl font-bold text-[#0C2B4E]">Counter App</p>
       <p className="text-[#1A3D64] mt-2">
         Create a counter app with increment, decrement, and reset buttons.
       </p>
