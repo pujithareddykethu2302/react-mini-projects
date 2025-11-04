@@ -1,4 +1,5 @@
 import Counter from './Counter'
+import GreetingMessage from './GreetingMessage'
 
 const Begining = () => {
   return (
@@ -9,6 +10,9 @@ const Begining = () => {
         <div className='grid grid-cols-1 lg:grid-cols-3 mt-3'>
         <div className='bg-[#DFD0B8] m-5 rounded-xl'>
            <Counter />
+        </div>
+        <div className='bg-[#DFD0B8] m-5 rounded-xl'>
+           <GreetingMessage />
         </div>
      
         </div>
