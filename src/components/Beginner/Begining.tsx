@@ -1,7 +1,7 @@
 import Counter from './Counter'
 import GreetingMessage from './GreetingMessage'
 import ToDoList from './ToDoList'
-import ToggleSwitch from './toggleSwitch'
+import ToggleSwitch from './ToggleSwitch'
 
 const Begining = () => {
   return (
