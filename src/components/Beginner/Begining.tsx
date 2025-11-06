@@ -1,5 +1,6 @@
 import Counter from './Counter'
 import GreetingMessage from './GreetingMessage'
+import ToDoList from './ToDoList'
 
 const Begining = () => {
   return (
@@ -13,6 +14,9 @@ const Begining = () => {
         </div>
         <div className='bg-[#DFD0B8] m-5 rounded-xl'>
            <GreetingMessage />
+        </div>
+         <div className='bg-[#DFD0B8] m-5 rounded-xl'>
+           <ToDoList />
         </div>
      
         </div>
