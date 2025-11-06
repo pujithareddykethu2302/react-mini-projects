@@ -1,6 +1,7 @@
 import Counter from './Counter'
 import GreetingMessage from './GreetingMessage'
 import ToDoList from './ToDoList'
+import ToggleSwitch from './toggleSwitch'
 
 const Begining = () => {
   return (
@@ -17,6 +18,9 @@ const Begining = () => {
         </div>
          <div className='bg-[#DFD0B8] m-5 rounded-xl'>
            <ToDoList />
+        </div>
+         <div className='bg-[#DFD0B8] m-5 rounded-xl'>
+          <ToggleSwitch />
         </div>
      
         </div>
