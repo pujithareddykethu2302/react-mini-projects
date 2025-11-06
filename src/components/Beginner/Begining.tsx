@@ -20,7 +20,7 @@ const Begining = () => {
            <ToDoList />
         </div>
          <div className='bg-[#DFD0B8] m-5 rounded-xl'>
-          <ToggleSwitch />
+          <ToggleSwitch  />
         </div>
      
         </div>
